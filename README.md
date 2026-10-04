@@ -1,84 +1,81 @@
-# Hi, I'm Rafly 👋
+# Halo, saya Rafly 👋
 
-### 💻 Informatics Engineering Student | Backend Developer Enthusiast
+### 💻 Mahasiswa Teknik Informatika | Fullstack Developer
 
-I'm an Informatics Engineering student who enjoys building software and learning how things work behind the scenes.
+Saya adalah mahasiswa Teknik Informatika yang tertarik pada pengembangan aplikasi dan software engineering.
 
-Currently focusing on **Backend Development**, **REST API**, **Database**, and **Flutter**.
+Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mulai dari frontend, backend, database, hingga mobile development.
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-- 🎓 Informatics Engineering Student
-- 💻 Interested in Backend Development
-- 🌱 Currently learning **TypeScript, NestJS, Docker & Flutter**
-- 🗄️ Interested in API development and database architecture
-- 🛠️ Enjoy building projects to improve my programming skills
+- 🎓 Mahasiswa Teknik Informatika
+- 💻 Tertarik pada Fullstack Development
+- 🌱 Sedang mempelajari **TypeScript, NestJS, Docker, Flutter & Dart**
+- 🗄️ Tertarik pada pengembangan API dan database
+- 🛠️ Suka belajar melalui pembuatan project
+- 📱 Sedang mengembangkan kemampuan mobile development dengan Flutter
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Bahasa Pemrograman
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,ts,php,dart,python,java,go](https://skillicons.dev/icons?i=js,ts,php,dart,python,java,go)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,dart,python,java,go" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue" />
+</p>
 
 ### Backend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi" />
+</p>
 
 ### Database
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
 
-### Frontend & Mobile
+### Mobile
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,tailwind,vue,flutter](https://skillicons.dev/icons?i=html,css,tailwind,vue,flutter)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ### Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Sedang Dipelajari
 
-```text
-TypeScript
-    ↓
-Node.js
-    ↓
-NestJS
-    ↓
-REST API
-    ↓
-PostgreSQL
-    ↓
-Docker
-    ↓
-Cloud & Deployment
-```
-
-Also learning **Flutter & Dart** for mobile development.
+- TypeScript
+- NestJS
+- PostgreSQL
+- Docker
+- REST API
+- Flutter & Dart
+- Cloud & Deployment
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Project
 
 ### 🛒 POS & Inventory System
 
-A Point of Sale and Inventory Management System with product management, stock management, suppliers, purchasing, and transactions.
+Sistem Point of Sale dan manajemen inventory yang mencakup pengelolaan produk, stok, supplier, pembelian, dan transaksi.
 
 **Tech:** Laravel • MySQL • Tailwind CSS
 
@@ -86,7 +83,7 @@ A Point of Sale and Inventory Management System with product management, stock m
 
 ### ☕ Cafe Shop
 
-A cafe ordering and management system with menu management, cart, table reservations, order history, and payment integration.
+Aplikasi pemesanan dan manajemen cafe dengan fitur menu, keranjang, reservasi meja, riwayat pesanan, dan integrasi pembayaran.
 
 **Tech:** Laravel • MySQL • Tailwind CSS • Midtrans
 
@@ -94,7 +91,7 @@ A cafe ordering and management system with menu management, cart, table reservat
 
 ### 📱 Flutter Projects
 
-A collection of mobile application projects and programming exercises created while learning Dart and Flutter.
+Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan Flutter.
 
 **Tech:** Dart • Flutter
 
@@ -102,44 +99,45 @@ A collection of mobile application projects and programming exercises created wh
 
 ## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=raflyy&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=raflyy\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=raflyy&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyy\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voltakits725&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltakits725&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=raflyy&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=raflyy\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=voltakits725&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Target 2026
 
-- [ ] Master JavaScript & TypeScript
-- [ ] Build production-ready REST APIs
-- [ ] Learn NestJS
-- [ ] Improve PostgreSQL & database design
-- [x] Learn Docker
-- [ ] Deploy backend applications
-- [x] Build more Flutter applications
-- [ ] Contribute to Open Source
-
----
-
-## 📫 Connect With Me
-
-\<p>
-&#x20; \<a href="[https://github.com/raflyy](https://github.com/raflyy)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+- [ ] Memperkuat JavaScript & TypeScript
+- [ ] Memahami Fullstack Development lebih dalam
+- [ ] Membangun REST API yang baik
+- [ ] Mempelajari NestJS
+- [ ] Memperdalam PostgreSQL & Database Design
+- [ ] Mempelajari Docker
+- [ ] Deploy aplikasi ke cloud
+- [ ] Mengembangkan lebih banyak aplikasi Flutter
+- [ ] Berkontribusi pada Open Source
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Keep learning, keep building."\</i>
-\</p>
+## 📫 Hubungi Saya
+
+<p>
+  <a href="https://github.com/voltakits725">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Terus belajar, terus membuat."</i>
+</p>
