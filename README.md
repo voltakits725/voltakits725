@@ -12,7 +12,7 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mul
 
 - 🎓 Mahasiswa Teknik Informatika
 - 💻 Tertarik pada Fullstack Development
-- 🌱 Sedang mempelajari **TypeScript, NestJS, Docker, Flutter & Dart**
+- 🌱 Sedang mempelajari ** Docker, Flutter & Dart**
 - 🗄️ Tertarik pada pengembangan API dan database
 - 🛠️ Suka belajar melalui pembuatan project
 - 📱 Sedang mengembangkan kemampuan mobile development dengan Flutter
@@ -24,7 +24,7 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mul
 ### Bahasa Pemrograman
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,dart,python,java,go" />
+  <img src="https://skillicons.dev/icons?i=js,php,dart,python,java" />
 </p>
 
 ### Frontend
@@ -36,7 +36,7 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mul
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
 ### Database
@@ -54,18 +54,13 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mul
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,bruno" />
 </p>
 
 ---
 
 ## 📚 Sedang Dipelajari
-
-- TypeScript
-- NestJS
-- PostgreSQL
 - Docker
-- REST API
 - Flutter & Dart
 - Cloud & Deployment
 
@@ -85,15 +80,15 @@ Sistem Point of Sale dan manajemen inventory yang mencakup pengelolaan produk, s
 
 Aplikasi pemesanan dan manajemen cafe dengan fitur menu, keranjang, reservasi meja, riwayat pesanan, dan integrasi pembayaran.
 
-**Tech:** Laravel • MySQL • Tailwind CSS • Midtrans
+**Tech:** Laravel • MySQL • Tailwind CSS • Midtrans  • Vue
 
 ---
 
 ### 📱 Flutter Projects
 
-Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan Flutter.
+Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart.
 
-**Tech:** Dart • Flutter
+**Tech:** Dart
 
 ---
 
@@ -116,10 +111,9 @@ Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan
 
 ## 🎯 Target 2026
 
-- [ ] Memperkuat JavaScript & TypeScript
+
 - [ ] Memahami Fullstack Development lebih dalam
 - [ ] Membangun REST API yang baik
-- [ ] Mempelajari NestJS
 - [ ] Memperdalam PostgreSQL & Database Design
 - [ ] Mempelajari Docker
 - [ ] Deploy aplikasi ke cloud
