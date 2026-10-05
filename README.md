@@ -2,9 +2,9 @@
 
 ### 💻 Mahasiswa Teknik Informatika | Fullstack Developer
 
-Saya adalah mahasiswa Teknik Informatika yang tertarik pada pengembangan aplikasi dan software engineering.
+Saya adalah mahasiswa Teknik Informatika yang tertarik pada pengembangan aplikasi web dan mobile.
 
-Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mulai dari frontend, backend, database, hingga mobile development.
+Saat ini saya sedang mempelajari pengembangan aplikasi secara fullstack, mulai dari frontend, backend, database, hingga mobile development.
 
 ---
 
@@ -12,7 +12,7 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara **fullstack**, mul
 
 - 🎓 Mahasiswa Teknik Informatika
 - 💻 Tertarik pada Fullstack Development
-- 🌱 Sedang mempelajari ** Docker, Flutter & Dart**
+- 🌱 Sedang mempelajari Docker, Flutter & Dart
 - 🗄️ Tertarik pada pengembangan API dan database
 - 🛠️ Suka belajar melalui pembuatan project
 - 📱 Sedang mengembangkan kemampuan mobile development dengan Flutter
@@ -78,7 +78,7 @@ Sistem Point of Sale dan manajemen inventory yang mencakup pengelolaan produk, s
 
 ### ☕ Cafe Shop
 
-Aplikasi pemesanan dan manajemen cafe dengan fitur menu, keranjang, reservasi meja, riwayat pesanan, dan integrasi pembayaran.
+Aplikasi pemesanan dan manajemen cafe dengan fitur menu, keranjang, reservasi meja, riwayat pesanan, AI Chatbot untuk mendeteksi bahan alergi, dan integrasi pembayaran.
 
 **Tech:** Laravel • MySQL • Tailwind CSS • Midtrans  • Vue
 
@@ -117,7 +117,7 @@ Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart.
 - [ ] Memperdalam PostgreSQL & Database Design
 - [ ] Mempelajari Docker
 - [ ] Deploy aplikasi ke cloud
-- [ ] Mengembangkan lebih banyak aplikasi Flutter
+- [ ] Mengembangkan lebih banyak aplikasi mobile dengan flutter
 - [ ] Berkontribusi pada Open Source
 
 ---
