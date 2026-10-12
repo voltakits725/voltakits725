@@ -55,10 +55,10 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara fullstack, mulai d
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,bruno" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Bruno-Testing%20API-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" />
 </p>
 
-- 🧪 **Bruno** — digunakan untuk testing endpoint REST API, seperti request GET, POST, PUT, dan DELETE.
 
 ---
 
@@ -67,7 +67,6 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara fullstack, mulai d
 - Docker
 - Flutter & Dart
 - Cloud & Deployment
-- REST API testing menggunakan Bruno
 
 ---
 
@@ -110,7 +109,7 @@ Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=voltakits725&theme=tokyonight&hide_border=true" alt="GitHub Streak for voltakits725" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=voltakits725&theme=tokyonight&hide_border=true" alt="GitHub Streak for voltakits725" />
   </a>
 </p>
 
