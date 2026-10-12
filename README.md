@@ -104,7 +104,7 @@ Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=voltakits725&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=voltakits725&theme=tokyonight&hide_border=true&v=121026" />
 </p>
 
 ---
