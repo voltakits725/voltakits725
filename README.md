@@ -105,15 +105,7 @@ Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=voltakits725&theme=tokyonight&hide_border=true" alt="GitHub Streak for voltakits725" />
-  </a>
-</p>
-
----
 
 ## 🎯 Target 2026
 
