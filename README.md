@@ -59,41 +59,6 @@ Saat ini saya sedang mempelajari pengembangan aplikasi secara fullstack, mulai d
   <img src="https://img.shields.io/badge/Bruno-Testing%20API-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" />
 </p>
 
-
----
-
-## 📚 Sedang Dipelajari
-
-- Docker
-- Flutter & Dart
-- Cloud & Deployment
-
----
-
-## 🔥 Project
-
-### 🛒 POS & Inventory System
-
-Sistem Point of Sale dan manajemen inventory yang mencakup pengelolaan produk, stok, supplier, pembelian, dan transaksi.
-
-**Tech:** Laravel • MySQL • Tailwind CSS
-
----
-
-### ☕ Cafe Shop
-
-Aplikasi pemesanan dan manajemen cafe dengan fitur menu, keranjang, reservasi meja, riwayat pesanan, AI Chatbot untuk mendeteksi bahan alergi, dan integrasi pembayaran.
-
-**Tech:** Laravel • MySQL • Tailwind CSS • Midtrans • Vue
-
----
-
-### 📱 Flutter Projects
-
-Kumpulan project dan latihan mobile development yang dibuat menggunakan Dart dan Flutter.
-
-**Tech:** Dart • Flutter
-
 ---
 
 ## 📊 GitHub Stats
